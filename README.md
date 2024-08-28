@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fvckyoumate (fyoum/Jacob Akpinar Olsson)
 - 👀 I’m interested in Music/Sound Design/ Video Game Development
 - 🌱 I’m currently working at Sonigon AB as a Sound Designer for Video Games
-- 📫 How to reach me ... www.fyoum.eu
+- 📫 How to reach me ... www.fyoum.eu and jacob@sonigon.com
 
 <!---
 fvckyoumate/fvckyoumate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
